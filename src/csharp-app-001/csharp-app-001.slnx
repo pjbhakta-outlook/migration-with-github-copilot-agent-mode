@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="csharp-app-001.csproj" />
+  <Project Path="..\WeatherService.Tests\WeatherService.Tests.csproj" />
+</Solution>
